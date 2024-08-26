@@ -1,2 +1,6 @@
-# Dashboard_de_colaboradores-Power-BI
-Projeto Básico do curso de Power BI sobre Informações de colaboradores.
+<h2 align = "center">Projeto 2 Power BI</h2>
+<img src="./Assets/Projeto 2.0.jpeg">
+
+<br>
+<img src="./Assets/Projeto 2.1.jpeg">
+
